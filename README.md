@@ -24,7 +24,7 @@ Word documents with reports and other pertinent details.
 While the repository contains a vast array of tools, files, and outputs, not all of them were integrated into the final report. This repository, thus, also serves as an extended library of dependencies for the research report.
 
 ## About the Research:
-Our study ventured into the Gene Expression Omnibus (GEO) repositories to comprehend TMED9's implications across diseases, especially those marked by protein misfolding. The research utilized extensive statistical analyses backed by tools in R and Python and supplemented with visual representations. Our primary focus, beyond MKD, was on Type 2 Diabetes (T2D). You can refer to the provided abstract for a detailed insight.
+Our study ventured into the Gene Expression Omnibus (GEO) repositories to comprehend TMED9's implications across diseases, especially those marked by protein misfolding. The research utilized extensive statistical analyses backed by tools in R and Python and supplemented with visual representations. Our primary focus, beyond MKD, was on Type 2 Diabetes (T2D). You can refer to the provided final report document for a detailed insight.
 
 ## Important Note on Project Evolution:
 Towards the end of our research, GEO introduced a feature called GEO2R, which greatly reduces the need for many of the tools we developed. This, in essence, diminished the necessity to convert our tools into a full-fledged software solution. As such, while our tools and scripts retain their academic and investigative value, their practical application has been superseded by GEO2R.
